@@ -1,0 +1,25 @@
+/*
+Auth create 
+1. create firebase project 
+2. enable web 
+3. enable sing in method 
+4. install firebase 
+5. get firebase confiz in your firebase.confiz .js file
+6. export app form   firebase .confiz.js
+
+*/
+/*
+1. create userContext (Auth context): UserContext ...> component name userContext  provider authContext
+2. create authContext 
+3. ser authContext .provider
+4. Make sure you ser the childern
+5. export authContext  to be used inside useContext hook
+6. get form data 
+7. getAuth in the userContext 
+*/
+ firebase hosting 
+ ..........
+/*
+1. one tiem for each computer run time 
+
+*/
